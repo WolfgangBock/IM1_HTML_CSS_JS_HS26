@@ -96,14 +96,31 @@ Ohne DNS müsstest Du dir IP-Adressen merken – das wäre sehr unpraktisch.
 
 ## Fazit
 
-| Begriff    | Kurz erklärt                       |
-| ---------- | ---------------------------------- |
-| Client     | Fragt Daten an (Browser)           |
-| Server     | Gibt Daten zurück (Webserver)      |
-| HTTP(S)    | Sprache zwischen Client und Server |
-| FTP        | Werkzeug zum Hochladen von Dateien |
+
+| Begriff               | Kurz erklärt                                                                                                                                                       |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Client                | Fragt Daten an (Browser)                                                                                                                                           |
+| Server                | Gibt Daten zurück (Webserver)                                                                                                                                      |
+| Request               | Anfrage an einen Server.                                                                                                                                           |
+| Response              | Antwort eines Servers.                                                                                                                                             |
+| URL                   | Adresse einer Ressource, beispielsweise einer Seite oder eines Bildes.                                                                                             |
+| HTTP / HTTPS          | **H**yper**T**ext **T**ransfer **P**rotocol **S**ecure - Regeln für den Austausch im Web; HTTPS verwendet eine verschlüsselte Verbindung.                          |
+| HTML                  | **H**yper**T**ext **M**arcup **L**anguage - Auszeichnungssprache für Inhalt und Struktur.                                                                          |
+| Tag                   | Markierung eines HTML-Elements in spitzen Klammern.                                                                                                                |
+| Attribut              | Zusätzliche Angabe zu einem HTML-Element, beispielsweise ein Linkziel.                                                                                             |
+| CSS                   | Regeln für die Darstellung von HTML-Inhalten.                                                                                                                      |
+| JavaScript / JS       | Programmiersprache im Browser ausgeführt.                                                                                                                          |
+| Event                 | Ereignis, beispielsweise ein Klick.                                                                                                                                |
+| Rendern               | Die Darstellung einer Seite berechnen und zeichnen.                                                                                                                |
+| Cache                 | Zwischenspeicher für bereits erhaltene Ressourcen.                                                                                                                 |
+| Dateipfad             | Angabe, wo eine Datei liegt.                                                                                                                                       |
+| Upload / Download     | Dateien übertragen: zum Server / vom Server.                                                                                                                       |
+| Hosting               | Bereitstellung einer Umgebung für einen Webauftritt. Speicherort für Deine Website.                                                                                |
+| **FTP** / FTPS / SFTP | **F**ile **T**ransfer **P**rotocol - Verfahren zur Dateiübertragung. FTPS und SFTP ermöglichen verschlüsselte Übertragung; SFTP ist ein anderes Protokoll als FTP. |
 | DNS        | Übersetzer zwischen Domain und IP  |
 | IP-Adresse | Adresse im Internet                |
-| Hosting    | Speicherort für Deine Website      |
+| Git                   | Werkzeug, das Versionen und Änderungen eines Projekts nachvollziehbar speichert.                                                                                   |
+| GitHub                | Plattform, auf der beispielsweise Git-Projekte gemeinsam verwaltet werden.                                                                                         |
+| Repository            | Speicherort für ein Projekt und seine Versionsgeschichte.                                                                                                          |
 
 ---

@@ -1,4 +1,4 @@
-# Interaktive Medien 1 - HTML, CSS & JavaScript
+# Interaktive Medien 1 HS26 - HTML, CSS & JavaScript
 
 Willkommen zum Kurs **Interaktive Medien 1**! Dieser Kurs führt dich systematisch in die Grundlagen der Webentwicklung ein.
 
@@ -24,11 +24,11 @@ Hier findest du:
 - HTML-Attribute verwenden (class, id, src, href, alt)
 
 **Inhalte:**
-- `lesson/` - Theoretische Grundlagen
+- `cheatsheets/` - Theoretische Grundlagen
 - `examples/` - Vollständiges Arbeitsbeispiel
-- `exercises/` - Platz für deine Übungen
+- `starter/` - Platz für deine Übungen
 
-**Dauer:** ~2-3 Stunden
+**Dauer:** ~ 2-3 Stunden
 
 ---
 
@@ -39,13 +39,13 @@ Hier findest du:
 - Grundlegende Gestaltung umsetzen
 
 **Inhalte:**
-- `lesson/` - CSS-Theorie
+- `cheatsheets/` - CSS-Theorie
 - `examples/` - Vollständig gestaltete Beispielseite
-- `exercises/` - Platz für deine Übungen
+- `starter/` - Platz für deine Übungen
 
 **Wichtige Konzepte:** Box Model, Farben, Schriften, Abstände
 
-**Dauer:** ~3-4 Stunden
+**Dauer:** ~ 3-4 Stunden
 
 ---
 
@@ -57,7 +57,7 @@ Hier findest du:
 - DOM-Manipulation lernen
 
 **Inhalte:**
-- `lesson/` - JavaScript-Grundlagen
+- `cheatsheets/` - JavaScript-Grundlagen
 - `examples/` - 6 interaktive Beispiele:
   - Console.log
   - Button Click Events
@@ -68,7 +68,7 @@ Hier findest du:
 
 **Wichtige Konzepte:** Events, DOM, Variables, Functions
 
-**Dauer:** ~4-5 Stunden
+**Dauer:** ~ 4-5 Stunden
 
 ---
 
@@ -89,11 +89,11 @@ Hier findest du:
 
 **Navigation:** Öffne `index.html` für eine Übersicht
 
-**Dauer:** ~5-6 Stunden
+**Dauer:** ~ 5-6 Stunden
 
 ---
 
-### [05-project-museum](./05-project-museum/) - Praxisprojekt: Museum Website
+### [05-project-museum](10-project-museum/) - Praxisprojekt: Museum Website
 **Lernziele:**
 - Alle Konzepte in einem echten Projekt anwenden
 - Multi-Page Website erstellen
@@ -111,7 +111,7 @@ Hier findest du:
 - Responsive Design
 - Custom Web Fonts
 
-**Dauer:** ~8-10 Stunden
+**Dauer:** ~ 8-10 Stunden
 
 ---
 
@@ -154,9 +154,9 @@ git clone <repository-url>
 
 # 2. Ersten Schritt öffnen
 cd 01-html-basics
-open examples/index.html  # macOS
-start examples/index.html # Windows
-xdg-open examples/index.html # Linux
+open solution/index.html  # macOS
+start solution/index.html # Windows
+xdg-open solution/index.html # Linux
 
 # 3. Mit einem Code-Editor öffnen (z.B. VS Code)
 code .
@@ -166,9 +166,9 @@ code .
 
 Für jedes Modul:
 
-1. **Lesen:** Studiere die Theorie im `lesson/` Ordner
+1. **Lesen:** Studiere die Theorie im `cheatsheets/` Ordner
 2. **Verstehen:** Öffne die Beispiele im Browser und Code-Editor
-3. **Üben:** Erstelle eigene Dateien im `exercises/` Ordner
+3. **Üben:** Erstelle eigene Dateien im `starter/` Ordner
 4. **Anwenden:** Nutze das Gelernte im nächsten Modul
 
 ## Empfohlene Tools
@@ -206,20 +206,16 @@ A:
 2. Dann: `00-course-info/` lesen
 3. Danach: Arbeite dich durch die Module 01-06
 
-**Q: Muss ich programmieren können?**
-A: Nein! Dieser Kurs startet bei Null und erklärt alles Schritt für Schritt.
-
-**Q: Wie lange dauert der Kurs?**
-A: Bei ca. 4-6 Stunden pro Woche bist du in 4-6 Wochen durch.
-
-**Q: Kann ich Module überspringen?**
-A: Nicht empfohlen! Jedes Modul baut auf dem vorherigen auf.
-
-**Q: Wo finde ich Lösungen?**
-A: Beispiellösungen findest du in den `examples/` Ordnern und im Museum-Projekt unter `05-project-museum/solution/`.
-
-**Q: Mein Code funktioniert nicht - was tun?**
-A: Schau in die [Fehler & Lösungen](./00-course-info/haeufige-fehler-und-loesungen.md) - dort findest du die häufigsten Probleme und deren Lösungen!
+- **Q: Muss ich programmieren können?**
+  - A: Nein! Dieser Kurs startet bei Null und erklärt alles Schritt für Schritt.
+- **Q: Wie lange dauert der Kurs?**
+  - A: ca. 30 Stunden. 
+- **Q: Kann ich Module überspringen?**
+  - A: Nicht empfohlen! Jedes Modul baut auf dem vorherigen auf. 
+- **Q: Wo finde ich Lösungen?**
+  - A: Beispiellösungen findest du in den `examples/` Ordnern und im Museum-Projekt unter `10-project-museum/solution/`. 
+- **Q: Mein Code funktioniert nicht - was tun?**
+  - A: Schau in die [Fehler & Lösungen](./00-course-info/haeufige-fehler-und-loesungen.md) - dort findest du die häufigsten Probleme und deren Lösungen!
 
 ## Support
 
@@ -238,3 +234,9 @@ Dieser Kurs ist für Bildungszwecke erstellt.
 **Viel Erfolg beim Lernen!**
 
 Beginne jetzt mit [00-course-info](./00-course-info/)
+
+#### Todo
+- Client-Server Arbeitsblatt erstellen
+- Dateipfade Arbeitsblatt erstellen
+- Screenshot -> Struktur (DOM) -> Klassen -> HTML/CSS
+- Inhalt für Ordner 08-hosting-git

@@ -10,17 +10,19 @@ Nach dieser Lektion kannst du:
 
 ## Inhalte
 
-### Lesson (Theorie)
-Im Ordner `lesson/` findest du Dokumentation zu:
-- CSS-Verknüpfung mit HTML
-- Selektoren (Element, Klasse, ID)
-- Wichtige CSS-Eigenschaften
+### Cheatsheets (Theorie)
+Im Ordner `cheatsheets/` findest du:
+- `021 was sind CSS.md` - Einführung in CSS
+  - CSS-Verknüpfung mit HTML
+  - Selektoren (Element, Klasse, ID)
+- `022 Aufbau der CSS-Datei.md` 
+  - Wichtige CSS-Eigenschaften
 
 ### Examples (Beispiele)
 Im Ordner `examples/` findest du praktische Beispiele
 
-### Exercises (Übungen)
-Im Ordner `exercises/` kannst du üben
+### Starter (Übungen)
+Im Ordner `starter/` kannst du üben
 
 ## Wichtige Konzepte
 

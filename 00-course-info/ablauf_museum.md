@@ -57,7 +57,7 @@ Erstelle eine eigene `style.css` und wende Farben, Schriften und Abstände gezie
 2. Logo links, Links rechts
 3. `position: sticky; top: 0;`
 4. `backdrop-filter` für moderne Glas-Effekte
-5. `<ul>' in Navigation umwandeln
+5. `<ul>` in Navigation umwandeln
 
 ---
 

@@ -1,6 +1,6 @@
 # Didaktisch kommentierte Version von `css/style.css`
 
-Diese kommentierte Fassung erklärt jede zentrale Regel der CSS-Datei.  
+Diese kommentierte Fassung erklärt zentrale Regeln der CSS-Datei.  
 Ziel: Studierende verstehen **Layout**, **Typografie**, **Komponenten-Styling** und **Interaktion (Hover)**.
 
 ---

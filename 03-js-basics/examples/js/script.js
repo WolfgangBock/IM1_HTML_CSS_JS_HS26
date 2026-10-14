@@ -77,7 +77,7 @@ greetButton.addEventListener('click', function() {
         greetingDisplay.textContent = "Bitte geben Sie einen Namen ein!";
         greetingDisplay.style.color = "#e74c3c";
     } else {
-        greetingDisplay.textContent = `Hallo ${name}! Schön, Sie kennenzulernen! 👋`;
+        greetingDisplay.textContent = `Hallo ${name}! Schön Dich kennenzulernen! 👋`;
         greetingDisplay.style.color = "#16a085";
     }
 });

@@ -10,7 +10,7 @@ Das Projekt wendet alle bisher gelernten Konzepte an:
 
 ## Projektstruktur
 
-### starter/
+### codealong/
 Hier findest du die Startdateien für das Code-Along im Unterricht.
 Dies ist deine Arbeitsversion - hier kannst du mitprogrammieren!
 

@@ -10,13 +10,13 @@ Nach dieser Lektion kannst du:
 
 ## Inhalte
 
-### Lesson (Theorie)
-Im Ordner `lesson/` findest du:
-- `05 HTML Boilerplate.md` - Die HTML-Grundstruktur
-- `10 HTML-Elemente.md` - Übersicht wichtiger HTML-Elemente
-- `15 was sind CSS.md` - Einführung in CSS
-- `17 Aufbau der CSS-Datei.md` - CSS-Dateistruktur
-- `22 Aufbau der JavaScript-Datei.md` - JavaScript-Dateistruktur
+### Cheatsheets (Theorie)
+Im Ordner `cheatsheets/` findest du:
+- `011 HTML Boilerplate.md` - Die HTML-Grundstruktur
+- `012 HTML-Elemente.md` - Übersicht wichtiger HTML-Elemente
+- `021 was sind CSS.md` - Einführung in CSS
+- `022 Aufbau der CSS-Datei.md` - CSS-Dateistruktur
+- `031 Aufbau der JavaScript-Datei.md` - JavaScript-Dateistruktur
 
 ### Examples (Beispiele)
 Im Ordner `examples/` findest du ein vollständiges Beispiel mit:
@@ -24,8 +24,8 @@ Im Ordner `examples/` findest du ein vollständiges Beispiel mit:
 - `css/style.css` - Zugehöriges Stylesheet
 - `js/script.js` - Zugehöriges JavaScript
 
-### Exercises (Übungen)
-Im Ordner `exercises/` kannst du deine eigenen Übungen erstellen.
+### Übungen
+Im Ordner `starter/` kannst du deine eigenen Übungen erstellen.
 
 ## Aufgabe
 

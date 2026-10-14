@@ -10,18 +10,19 @@ Nach dieser Lektion kannst du:
 
 ## Inhalte
 
-### Lesson (Theorie)
-Im Ordner `lesson/` findest du Dokumentation zu:
-- JavaScript-Einbindung
-- console.log() zur Fehlersuche
-- DOM-Manipulation
-- Event-Listener
+### Cheatsheets (Theorie)
+Im Ordner `cheatsheets/` findest du:
+- `031 Aufbau der JavaScript-Datei.md` - JavaScript-Dateistruktur
+  - JavaScript-Einbindung
+  - console.log() zur Fehlersuche
+  - DOM-Manipulation
+  - Event-Listener
 
 ### Examples (Beispiele)
 Im Ordner `examples/` findest du praktische Beispiele
 
-### Exercises (Übungen)
-Im Ordner `exercises/` kannst du üben
+### Starter (Übungen)
+Im Ordner `starter/` kannst du üben
 
 ## Wichtige Konzepte
 
